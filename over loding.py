@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 29 06:46:04 2023
 
-@author: ascom
-"""
 
 """
     Method Overriding in Python
