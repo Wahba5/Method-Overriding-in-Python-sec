@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 20:50:56 2023
 
-@author: Wahba
+
 
 This script demonstrates the concept of abstract classes in Python using the ABC module.
 Abstract classes act as a blueprint for other classes, requiring derived classes to implement 
